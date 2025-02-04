@@ -7,6 +7,7 @@ Welcome to my **LUX-DEV-BOOTCAMP repository**, a documentation of my learning jo
 ## Repository Structure
 
 - **`notes/`**: Summarized insights, technical concepts, and key learnings from different sessions.
+    - 01-Introduction.md - Covers the basic definitions of Data Science, AI and Machine Learning
 - **`assignments/`**: Completed assignments, coding exercises, and practical solutions in Python and other tools.
 - **`resources/`**:
   - Curated articles, datasets, and links that have been used in the process.
