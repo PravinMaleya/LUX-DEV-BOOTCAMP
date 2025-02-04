@@ -1,4 +1,4 @@
-# LUX-DEV-BOOTCAMP 🚀
+# LUX-DEV-BOOTCAMP 
 
 Welcome to my **LUX-DEV-BOOTCAMP repository**, a documentation of my learning journey in **data science, machine learning and AI** through a hands-on tech incubator program. This repository serves as both a portfolio and a resource hub where I showcase my assignments, notes, and insights as I build expertise in said fields.
 
