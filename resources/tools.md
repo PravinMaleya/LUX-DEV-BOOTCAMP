@@ -20,8 +20,19 @@ To start programming in Python, you need the following tools installed on your s
 
 After installing these tools, you will be able to run Python code in VS Code.
 
-## 3. **Matplotlib**
+## 3. Visualization Tools
+### **Matplotlib**
 
 - This is a visualization library that we are going to use.
 - Here is the **[documentation](https://matplotlib.org/stable/index.html)**
 - You can also find the guide also **[here](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)**
+
+### **Seaborn**
+
+- Here is the **[documentation](https://seaborn.pydata.org/)**
+- Follow the guide to learn more of it as well as installing it
+
+### **Plotly**
+
+- Here is the **[documentation](https://plotly.com/python/getting-started/)**
+- The guide shows you an overview with installation steps.
