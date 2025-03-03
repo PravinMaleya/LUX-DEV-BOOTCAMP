@@ -24,3 +24,4 @@ After installing these tools, you will be able to run Python code in VS Code.
 
 - This is a visualization library that we are going to use.
 - Here is the **[documentation](https://matplotlib.org/stable/index.html)**
+- You can also find the guide also **[here](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)**
